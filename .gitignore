@@ -4,4 +4,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/cstgwr/TestHub.git
 git push -u origin master
-Echo "my first change"
+Echo "my second change"
